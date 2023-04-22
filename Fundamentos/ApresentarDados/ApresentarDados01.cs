@@ -115,7 +115,8 @@ namespace Fundamentos.ApresentarDados
             Console.WriteLine("Matricula: " + matriculadaExemploConversao);
             Console.WriteLine("Letra: " + letra);
 
-            // https://bit.ly/3nRV19f
+            // link do Miro com os exmplos do professor francisco https://bit.ly/3nRV19f
+                 
 
         }
     }
