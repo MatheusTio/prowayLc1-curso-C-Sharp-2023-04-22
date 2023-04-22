@@ -139,6 +139,7 @@ namespace Fundamentos.EstruturaCondicional
             if (recebeValeTransporte == true)
                 descontoValeTransporte = salarioBruto * 0.06;
             return descontoValeTransporte;
+
         }
     }
 }
