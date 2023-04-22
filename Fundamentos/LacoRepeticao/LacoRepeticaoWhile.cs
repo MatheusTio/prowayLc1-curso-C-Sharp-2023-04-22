@@ -18,8 +18,10 @@ namespace Fundamentos.LacoRepeticao
 
             while (opcaoDesejada != 8001)
             {
-               
-                Console.WriteLine("\n1 - Exemplo 01" +
+
+                Console.WriteLine("Escolha uma das opçoes abaixo!");
+                Console.WriteLine(
+                    "\n1 - Exemplo 01" +
                     "\n2 - Exemplo 02" +
                     "\n3 - Exemplo 03" +
                     "\n8001 - Sair");
