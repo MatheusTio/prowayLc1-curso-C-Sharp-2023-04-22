@@ -48,7 +48,6 @@ namespace Fundamentos.EntradaDados
             // Apresentar o valor total das contas
 
             // https://bit.ly/3Gt9KxW
-
         }
     }
 }
